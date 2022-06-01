@@ -1,0 +1,56 @@
+#encabezado{
+    color: powderblue;
+    background-position: center;
+    width: 100%;
+   padding-top: 15px; 
+    text-align: center;
+    background-image: url(../img/descarga.jpg);
+}
+body{
+  background-image: url("../img/spidy.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+#botones li{
+  list-style: none;
+  color: black;
+  display: inline;
+  background-color: plum;
+  margin: 0 90px;
+  border-radius: 5px;
+  padding: 8px 8px 8px 8px;
+  font-size: 16px;
+}
+#section1{
+  margin: 7px;
+  padding: 3px;
+  background-color:  #4dd2ff  ;
+  border-radius: 10px;
+  border-color: aqua;
+}
+#section2{
+  margin: 7px;
+  padding: 3px;
+  background-color:  #ff8080  ;
+  border-radius: 10px;
+  border-color: aqua;
+}
+#parrafox{
+  margin: 7px;
+  padding: 3px;
+  background-color:   #47d147  ;
+  border-radius: 10px;
+}
+#pie{
+  color: black;
+  text-align: center;
+  border-radius: 5px;
+  width: 70%;
+  margin: 27% 10% 10px;
+  height: 50px;
+  background-color:rosybrown;
+  clear: both;
+  background-color:    #00e6ac;
+
+}
